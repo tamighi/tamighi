@@ -2,10 +2,10 @@ Passionate developper particularly interested in data science, game and web deve
 You can find my projects from the 19's software development program at https://github.com/Lysique
 
 Personal:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamighi)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamighi)
 
 19's cursus:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lysique)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lysique)](https://github.com/Lysique)
 
 <!---
 tamighi/tamighi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
